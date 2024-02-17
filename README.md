@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @I-Arte
+- 👋 Hi, I’m @I-Arte Iñaki
 - 👀 I’m interested in Learning to code
 - 🌱 I’m currently learning Pyhton and React
 - 💞️ I’m looking to collaborate on anything that's fun or interesting.
